@@ -1,0 +1,22 @@
+ID,FIRST NAME,LAST NAME,EMAIL,GENDER,COUNTRY,CREATED,STATUS
+1,John,Doe,john.doe@gmail.com,Male,United States,3/24/2021 10:45,Active
+2,Gary,Riley,gary@hotmail.com,Male,United Kingdom,5/11/2021 12:15,Active
+3,Edward,Siu,siu.edward@gmail.com,Male,Switzerland,9/23/2019 16:33,Active
+4,Betty,Simons,simons@example.com,Female,United States,4/22/2021 18:23,Active
+5,Frances,Lieberman,lieberman@gmail.com,Female,Australia,9/22/2019 9:43,Active
+6,Jason,Gregson,jason@example.com,Male,United States,9/21/2019 11:34,Inactive
+7,Brian,Dehart,brian@hotmail.com,Male,United Kingdom,9/21/2020 12:15,Active
+8,Thomas,Mach,thomas.mach@gmail.com,Male,Switzerland,9/21/2020 16:33,Active
+9,Mary,Scott,mary@example.com,Female,United States,9/20/2019 18:23,Active
+10,William,McCoy,william@gmail.com,Male,Australia,9/20/2020 9:43,Active
+11,Delores,Blackburn,blackburn@example.com,Female,United States,9/19/2019 11:34,Inactive
+12,Eric,Marroquin,eric@hotmail.com,Male,United Kingdom,1/24/2021 12:15,Active
+13,Ericka,Shook,ericka@gmail.com,Female,Switzerland,2/17/2021 16:33,Active
+14,Helen,Battle,helen9@example.com,Female,United States,9/15/2019 18:23,Active
+15,Edgar,Britt,edgarbritt@gmail.com,Female,Australia,9/18/2020 9:43,Active
+16,Linda,Ray,linda@example.com,Female,United States,9/11/2019 11:34,Inactive
+17,Joshua,Rudolph,joshua@hotmail.com,Male,United Kingdom,9/11/2020 12:15,Active
+18,Christopher,Guthrie,christopher@gmail.com,Male,Switzerland,4/9/2021 16:33,Active
+19,Rachel,Sauer,sauer@example.com,Female,United States,9/8/2020 18:23,Active
+20,Michael,Harrington,harrington@gmail.com,Female,Australia,9/5/2020 9:43,Active
+21,William,Rost,william@example.com,Male,United States,12/5/2020 11:34,Active

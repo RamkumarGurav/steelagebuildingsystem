@@ -1,0 +1,31 @@
+.carousel-wrap {
+  margin: 40px auto;
+  padding: 0 5%;
+  width: 100%;
+  position: relative;
+}
+.owl-carousel .item {
+  position: relative; /* fix blank or flashing items on carousel */
+  z-index: 100; /* fix blank or flashing items on carousel */
+  -webkit-backface-visibility: hidden; /* fix blank or flashing items on carousel */
+}
+.owl-nav > div {
+  margin-top: -26px;
+  position: absolute;
+  top: 50%;
+  color: #cdcbcd;
+}
+.owl-nav i {
+  font-size: 20px;
+  color: #fff;
+}
+.owl-nav .owl-prev {
+  left: -50px;
+  background-color: #000;
+  padding: 6px 13px;
+}
+.owl-nav .owl-next {
+  right: -50px;
+  background-color: #000;
+  padding: 6px 13px;
+}
